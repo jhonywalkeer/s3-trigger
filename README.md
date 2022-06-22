@@ -6,11 +6,21 @@ This project involves the AWS stack where it works on adding static data to the 
     <img width="50%"  alt="Study" title="S3 Trigger" src="./readme/assets/images/warning.svg" />
 </h1>
 
+## Architecture
+
+<h1 align="center">
+    <img width="80%"  alt="Study" title="S3 Trigger" src="./readme/assets/images/architecture-flow.png" />
+</h1>
+
 ## Technologies
+
+<div align="center">
 
 | Language | Framework/Superset | Framework/Superset | Database |
 | -------- | ------------------ | ------------------ | -------- |
 | Node.js  | Typescript         | Serveless          | DynamoDB |
+
+</div>
 
 In addition to the following dependencies:
 
