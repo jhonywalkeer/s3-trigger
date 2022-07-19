@@ -1,5 +1,3 @@
-## Repository summary
-
 This project involves the AWS stack where it works on adding static data to the database by loading the contents of a CSV file into an S3 bucket and triggering a Lambda function that stores it in DynamoDB. Although CSV seems biblically old, it is still often used in IT projects to exchange data or import from one data store to another.
 
 <h1 align="center">
